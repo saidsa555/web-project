@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+.header
+{
+    background-color: black;
+    color: white;
+    text-align: right;
+    font-size: 20px;
+    padding: 25px;
+    word-spacing: 35px;
+
+}
+.linkup
+{
+    text-decoration: none;
+    color: white;
+}
+.information
+{
+    text-align: center;
+    margin-top: 15px;
+}
+
+table,td
+{
+    border:1px solid;width: 400px;
+    margin-left: 560px;
+}

@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+.header
+{
+    background-color: black;
+    color: white;
+    text-align: right;
+    font-size: 20px;
+    padding: 25px;
+    word-spacing: 35px;
+
+}
+.linkup
+{
+    text-decoration: none;
+    color: white;
+}
+.title
+{
+    text-align: center;
+}
+.paragraph{
+    padding: 10px;
+
+}
